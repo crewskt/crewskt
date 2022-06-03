@@ -26,7 +26,7 @@ const Header = () => {
                     <li className="li-header"><Link onClick={show} className="link" to="/ansiedade">Ansiedade</Link></li>
                     <li className="li-header"><Link onClick={show} className="link" to="/depressao">Depressão</Link></li>
                     <li className="li-header"><Link onClick={show} className="link" to="/tratamento">Tratamento</Link></li>
-                    <li className="li-header"><Link onClick={show} className="https://docs.google.com/forms/d/e/1FAIpQLSd0ovSngYKJuvdfG6S2_EoXnRkCJdjygSf0mRKnMJGtceWAqA/viewform?usp=pp_url" to="https://docs.google.com/forms/d/e/1FAIpQLSd0ovSngYKJuvdfG6S2_EoXnRkCJdjygSf0mRKnMJGtceWAqA/viewform?usp=pp_url">Questionario</Link></li>
+                    <a className="button-ajuda" href="https://docs.google.com/forms/d/e/1FAIpQLSd0ovSngYKJuvdfG6S2_EoXnRkCJdjygSf0mRKnMJGtceWAqA/viewform?usp=pp_url" target="_blank">Buscar Ajuda</a>
                 </ul>
             </nav>
         </header>
