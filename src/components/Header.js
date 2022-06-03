@@ -13,7 +13,7 @@ const Header = () => {
         <header className="header-content">
             <nav className="navBar">
           
-              <h2 className="logo"><Link className="logo" to="/">Mente Info</Link></h2> 
+              <h2 className="logo"><Link className="logo" to="/">Depre Info</Link></h2> 
 
                 <div className="menu-mobile" onClick={show} >
                     <div className="hamburguer"></div>
@@ -26,7 +26,7 @@ const Header = () => {
                     <li className="li-header"><Link onClick={show} className="link" to="/ansiedade">Ansiedade</Link></li>
                     <li className="li-header"><Link onClick={show} className="link" to="/depressao">Depressão</Link></li>
                     <li className="li-header"><Link onClick={show} className="link" to="/tratamento">Tratamento</Link></li>
-                    <li className="li-header"><Link onClick={show} className="link" to="/ajuda">Ajuda</Link></li>
+                    <li className="li-header"><Link onClick={show} className="https://docs.google.com/forms/d/e/1FAIpQLSd0ovSngYKJuvdfG6S2_EoXnRkCJdjygSf0mRKnMJGtceWAqA/viewform?usp=pp_url" to="/ajuda">Ajuda</Link></li>
                 </ul>
             </nav>
         </header>
