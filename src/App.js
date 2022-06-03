@@ -4,7 +4,7 @@ import Header from './components/Header';
 import LandingPage from './components/pages/inicio/LandingPage';
 import Ansiedade from './components/pages/ansiedade/Ansiedade';
 import Depressao from './components/pages/depressão/Depressao';
-import Questionario from './components/pages/ajuda/Ajuda';
+import Questionario from './components/pages/ajuda/quemsomos';
 import Tratamento from './components/pages/tratamentos/Tratamento'
 
 function App() {
@@ -26,7 +26,7 @@ function App() {
        <Route exact path="/tratamento">
          <Tratamento />
        </Route>
-       <Route exact path="/">
+       <Route exact path="/quemsomos">
          <Questionario />
        </Route>
      </Switch>
