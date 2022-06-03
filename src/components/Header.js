@@ -10,7 +10,7 @@ const Header = () => {
     }
 
     return (
-        <header className="header-content">
+        <header className="Depre Info">
             <nav className="navBar">
           
               <h2 className="logo"><Link className="logo" to="/">Depre Info</Link></h2> 
