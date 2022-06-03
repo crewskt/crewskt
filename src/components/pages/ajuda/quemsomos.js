@@ -13,7 +13,7 @@ const Ajuda = () => (
         <div className="box-description">
 
             <div className="box-title">
-                <h1 class="title-ajuda"> Busque ajuda  </h1>
+                <h1 class="title-ajuda"> Quem somos ?  </h1>
             </div>
 
             <div className="box-mente">
