@@ -32,7 +32,7 @@ const LandingPage = () => (
                     <p className="oms-info1">
                         Segundo a Organização  Mundial de Saúde, a saúde mental é
                         um estado de bem-estar no qual o indivíduo   exprime   as
-                        suas   capacidades,   enfrenta   os   stressores   normais
+                        suas   capacidades,   enfrenta   os   estressores   normais
                         da   vida,   trabalha produtivamente  e  de  modo  frutífero,
                         e  contribui  para  a  sua  comunidade.
                         A carga dos transtornos mentais continua crescendo,
