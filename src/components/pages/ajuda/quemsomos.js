@@ -13,11 +13,13 @@ const Ajuda = () => (
         <div className="box-description">
 
             <div className="box-title">
-                <h1 class="title-ajuda"> Quem somos ?  </h1>
+                <h1 class="title-ajuda"> Projeto integrador  </h1>
             </div>
 
             <div className="box-mente">
-                <p className="description"> </p>
+                <p className="description"> 
+Alunos Senac Madureira
+João Felipe, Bruna Moreira </p>
             </div>
 
             <div>
