@@ -52,7 +52,7 @@ const Ansiedade = () => (
        </div>
        <div className="part4">
          <div className="" >
-           <h2 class="info3">Sintomas</h2>
+           <h2 class="info3">Possíveis Sintomas</h2>
          </div>
            <div className="row-lista-img">
              <ul className="ul-sintomas">
