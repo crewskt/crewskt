@@ -18,8 +18,8 @@ const Ajuda = () => (
 
             <div className="box-mente">
                 <p className="description"> 
-               Alunos Senac Madureira :</p>
-             <p> João Felipe, Bruna Moreira </p>
+                  Alunos integrados no Senac Madureira :</p>
+             <p> João Felipe e Bruna Moreira. </p>
             </div>
 
             <div>
