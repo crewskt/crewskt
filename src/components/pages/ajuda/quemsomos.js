@@ -12,7 +12,9 @@ const Ajuda = () => (
 
         <div className="box-description">
 
-         <h2 class="infor3">Técnicos em enfermagem Turma de 2021.1 no Senac RJ Madureira</h2>
+            <div className="box-title">
+                
+         <h2> Técnicos em enfermagem Turma de 2021.1 no Senac RJ Madureira</h2>
          </div>
            <div className="row-lista-img">
              <ul className="ul-sintomas">
