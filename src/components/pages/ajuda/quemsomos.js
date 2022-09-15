@@ -39,6 +39,22 @@ const Ajuda = () => (
              <p>Wilzete Silva</p>
              <p></p>
             </div> <p></p>
+##########################################################################
+         <h2 class="infor3">Técnicos em enfermagem Turma de 2021.1 no Senac RJ Madureira</h2>
+         </div>
+           <div className="row-lista-img">
+             <ul className="ul-sintomas">
+               <li className="li-sintomas">João Felipe</li>
+               <li className="li-sintomas">Bruna Moreira</li>
+               <li className="li-sintomas">Alterações de sono;</li>
+               <li className="li-sintomas">Rafaelle Soares</li>
+               <li className="li-sintomas">Diana Calçada</li>
+               <li className="li-sintomas">Stephany Rocha</li>
+               <li className="li-sintomas">Wilzete Silva</li>
+             </ul>
+
+
+
 
             <div>
                
