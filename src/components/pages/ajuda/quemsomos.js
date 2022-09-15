@@ -18,9 +18,14 @@ const Ajuda = () => (
 
             <div className="box-mente">
                 <p className="description"> 
-                  Alunos integrados no Senac Madureira :</p>
-             <p> João Felipe e Bruna Moreira. </p>
-            </div>
+                  Alunos integrados no Senac RJ Madureira :</p>
+             <p> João Felipe
+                Bruna Moreira
+                Rafaelle Soares
+                Diana Calçada
+                Stephany Rocha
+                Wilzete Silva</p>
+            </div> Técnicos em enfermagem Turma : 2021.1
 
             <div>
                
