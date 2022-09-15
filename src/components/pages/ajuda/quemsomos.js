@@ -16,7 +16,7 @@ const Ajuda = () => (
                 
          <h2> Técnicos em enfermagem Turma de 2021.1 no Senac RJ Madureira</h2>
          </div>
-           <div className="row-lista-img">
+           
              <ul className="ul-sintomas">
                <li className="li-sintomas">João Felipe</li>
                <li className="li-sintomas">Bruna Moreira</li>
