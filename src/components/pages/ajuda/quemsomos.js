@@ -18,14 +18,24 @@ const Ajuda = () => (
 
             <div className="box-mente">
                 <p className="description"> 
-                Alunos integrados no Senac RJ Madureira :</p>
+            Técnicos em enfermagem Turma de 2021.1 no Senac RJ Madureira</p>
+            <p></p>
+            <p></p>
+            <p></p><h1 class="title-ajuda"> EQUIPE  </h1>
+            <p></p>
              <p>João Felipe</p>
+             <p></p>
              <p>Bruna Moreira</p>
+             <p></p>
              <p>Rafaelle Soares</p>
+             <p></p>
              <p>Diana Calçada</p>
+             <p></p>
              <p>Stephany Rocha</p>
+             <p></p>
              <p>Wilzete Silva</p>
-            </div> <p>Técnicos em enfermagem Turma : 2021.1</p>
+             <p></p>
+            </div> <p></p>
 
             <div>
                
