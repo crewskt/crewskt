@@ -23,9 +23,7 @@ const Ajuda = () => (
                <li className="li-sintomas">João Felipe</li>
                
                <li className="li-sintomas">Bruna Moreira</li>
-               
-               <li className="li-sintomas">Alterações de sono;</li>
-               
+            
                <li className="li-sintomas">Rafaelle Soares</li>
                
                <li className="li-sintomas">Diana Calçada</li>
