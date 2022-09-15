@@ -19,21 +19,21 @@ const Ajuda = () => (
          <li className="li-sintomas"></li>
            
              <ul className="ul-sintomas">
-             <li className="li-sintomas"></li>
+             
                <li className="li-sintomas">João Felipe</li>
-               <li className="li-sintomas"></li>
+               
                <li className="li-sintomas">Bruna Moreira</li>
-               <li className="li-sintomas"></li>
+               
                <li className="li-sintomas">Alterações de sono;</li>
-               <li className="li-sintomas"></li>
+               
                <li className="li-sintomas">Rafaelle Soares</li>
-               <li className="li-sintomas"></li>
+               
                <li className="li-sintomas">Diana Calçada</li>
-               <li className="li-sintomas"></li>
+               
                <li className="li-sintomas">Stephany Rocha</li>
-               <li className="li-sintomas"></li>
+               
                <li className="li-sintomas">Wilzete Silva</li>
-               <li className="li-sintomas"></li>
+               
              </ul>
 
 
