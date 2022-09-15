@@ -18,7 +18,7 @@ const Ajuda = () => (
 
             <div className="box-mente">
                 <p className="description"> 
-                  Alunos integrados no Senac RJ Madureira :</p>
+                Alunos integrados no Senac RJ Madureira :</p>
              <p> João Felipe
                 Bruna Moreira
                 Rafaelle Soares
