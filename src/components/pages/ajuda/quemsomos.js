@@ -23,7 +23,8 @@ const Ajuda = () => (
             <p></p>
             <p></p><h4> class="title-ajuda"> EQUIPE  </h4>
             <p></p>
-            <div> João Felipe</div>
+            <p></p>
+            <p></p><h6> João Felipe  </h6>
              <p></p>
              <p>Bruna Moreira</p>
              <p></p>
