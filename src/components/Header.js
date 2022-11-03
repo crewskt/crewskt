@@ -26,7 +26,7 @@ const Header = () => {
                     <li className="li-header"><Link onClick={show} className="link" to="/ansiedade">Ansiedade</Link></li>
                     <li className="li-header"><Link onClick={show} className="link" to="/depressao">Depressão</Link></li>
                     <li className="li-header"><Link onClick={show} className="link" to="/tratamento">Tratamento</Link></li>
-                    <li className="li-header" href="https://pcrj.maps.arcgis.com/apps/webappviewer/index.html?id=014d8ab512a34f259bb27c8a13d4d65f" target="_blank">1Ajuda</li>
+                     <li className="li-header"><Link onClick={show} className="link" to="/ajuda">Ajuda</Link></li>
                     <li className="li-header"><Link onClick={show} className="link" to="/quemsomos">Quem Somos</Link></li>
                     <a className="button-ajuda" href="https://docs.google.com/forms/d/e/1FAIpQLSd0ovSngYKJuvdfG6S2_EoXnRkCJdjygSf0mRKnMJGtceWAqA/viewform?usp=pp_url" target="_blank">Questionário</a>
                 </ul>
